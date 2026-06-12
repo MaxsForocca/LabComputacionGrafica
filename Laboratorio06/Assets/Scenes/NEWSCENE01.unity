@@ -1832,8 +1832,8 @@ Light:
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
+  m_ColorTemperature: 20000
+  m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
@@ -9488,7 +9488,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2431683371133407195, guid: e69f5ebf654fd274097db80751a5596f, type: 3}
       propertyPath: m_ColorTemperature
-      value: 10000
+      value: 4763
       objectReference: {fileID: 0}
     - target: {fileID: 2431683371133407195, guid: e69f5ebf654fd274097db80751a5596f, type: 3}
       propertyPath: m_UseColorTemperature
