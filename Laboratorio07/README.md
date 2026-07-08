@@ -1,0 +1,3 @@
+# LABORAOTORIO: OPENCV
+## Resources 
+- PYTHON
